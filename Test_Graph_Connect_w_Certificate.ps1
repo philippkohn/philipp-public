@@ -4,7 +4,6 @@ $env:AZURE_TENANT_ID = "YOUR Tenant ID"
 
 # Add variable with the Thumbprint of your Certificate
 $Certificate = "The Tumbprint of your Certificate"
-Connect-MgGraph -ClientId $env:AZURE_CLIENT_ID -TenantId $env:AZURE_TENANT_ID -CertificateThumbprint $Certificate
 
 # Connect to Microsoft Graph PowerShell SDK
 Connect-MgGraph -ClientId $env:AZURE_CLIENT_ID -TenantId $env:AZURE_TENANT_ID -CertificateThumbprint $Certificate
