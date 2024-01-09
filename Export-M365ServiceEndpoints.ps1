@@ -25,18 +25,14 @@ Date       Version   Author          Description
 08/01/24   1.0       Philipp Kohn     Initial creation with assistance from OpenAI's ChatGPT.
 #>
 
-# Fetching service endpoint data from Microsoft 365
-$result = Invoke-RestMethod -uri "https://endpoints.office.com/endpoints/worldwide?clientrequestid=b10c5ed1-bad1-445f-b386-b919946339a7" |
+# Fetching service endpoint data and exporting to CSV
+(Invoke-RestMethod -uri "https://endpoints.office.com/endpoints/worldwide?clientrequestid=b10c5ed1-bad1-445f-b386-b919946339a7") |
     Select-Object serviceAreaDisplayName, urls |
     ForEach-Object {
-        # Processing each service area and its URLs
         foreach ($url in $_.urls) {
             [pscustomobject][ordered]@{
                 Service = $_.serviceAreaDisplayName
                 URL     = $url
             }
         }
-    }
-
-# Exporting the results to a CSV file
-$result | Export-Csv -Path "output.csv" -NoTypeInformation
+    } | Export-Csv -Path "c:\temp\M365ServiceEndpoints.csv" -NoTypeInformation
