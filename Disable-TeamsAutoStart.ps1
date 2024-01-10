@@ -25,7 +25,7 @@ This example runs the script to change the 'State' DWORD value to 0, disabling a
 .NOTES
 File Name       : Disable-TeamsAutoStart.ps1
 Author          : Philipp Kohn, Assisted by OpenAI's ChatGPT
-Prerequisite    : PowerShell 5.1 or later. Administrative rights are required to modify the registry.
+Prerequisite    : PowerShell 5.1 or later.
 Copyright 2024  : cloudcopilot.de
 
 Change Log
