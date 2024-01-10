@@ -33,6 +33,7 @@ Change Log
 Date       Version   Author         Description
 --------   -------   ------         -----------
 09/01/24   1.0       Philipp Kohn    Initial creation with assistance from OpenAI's ChatGPT. Kudos to my colleague Dominik Paebst for finding the Registry Key.
+10/01/24   1.1       Philipp Kohn    Updated wrong registry key, script tested in lab environment
 #>
 
 $path = "HKCU:\Software\Classes\Local Settings\Software\Microsoft\Windows\CurrentVersion\AppModel\SystemAppData\MSTeams_8wekyb3d8bbwe\TeamsTfwStartupTask"
