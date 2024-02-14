@@ -10,7 +10,9 @@ This repository contains a 'one-liner' script that enables the use of Windows Co
 
 
 ## Prerequisites
-- Windows 10 or later, tested only with Windows 23H2 Insider Preview Build 22635.3140
+Tested on:
+- Windows 23H2 22635.3140, Windowss 11 Enterprise
+- Windows 22H2 22621.2792, Windows 11 Home, my Wife's PC 😁
 
 ## Installation
 1. Download the Zip file [Windows_Copilot_for_Europe.zip](Windows_Copilot_for_Europe.zip) from this repository.
