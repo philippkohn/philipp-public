@@ -1,4 +1,4 @@
-# Windows Copilot Activation for European Systems
+# Windows Copilot for European Systems
 ![Alt text](WindowsCopilotScreenshot.jpg)
 
 
