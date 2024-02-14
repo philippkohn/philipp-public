@@ -3,7 +3,7 @@
 
 
 ## Overview
-This repository contains a 'one-liner" script that enables the use of Windows Copilot on European systems. Due to the EU Digital Markets Act (DMA), Windows Copilot is not available by default in Europe. This script provides a workaround by directly launching the associated UI.
+This repository contains a 'one-liner' script that enables the use of Windows Copilot on European systems. Due to the EU Digital Markets Act (DMA), Windows Copilot is not available by default in Europe. This script provides a workaround by directly launching the associated UI.
 
 - For more information on the EU Digital Markets Act (DMA), visit [EU Digital Markets Act Official Page](https://digital-markets-act.ec.europa.eu/index_en).
 - Learn more about Windows Copilot at [Windows Copilot Official](https://www.microsoft.com/en-us/windows/copilot-ai-features).
