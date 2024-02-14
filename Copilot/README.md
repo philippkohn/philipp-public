@@ -5,7 +5,6 @@ This repository contains a script that enables the use of Windows Copilot on Eur
 
 ## Prerequisites
 - Windows 10 or later
-- Administrative rights on the system
 
 ## Installation
 1. Download the files from this repository.
