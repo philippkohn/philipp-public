@@ -9,8 +9,7 @@ This repository contains a 'one-liner' script that enables the use of Windows Co
 - Learn more about Windows Copilot at [Windows Copilot Official](https://www.microsoft.com/en-us/windows/copilot-ai-features).
 
 
-## Prerequisites
-Tested on:
+## Tested on
 - Windows 23H2 22635.3140, Windowss 11 Enterprise
 - Windows 22H2 22621.2792, Windows 11 Home, my Wife's PC 😁
 
