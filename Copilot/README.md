@@ -4,7 +4,7 @@
 This repository contains a script that enables the use of Windows Copilot on European systems. Due to the EU Digital Markets Act (DMA), Windows Copilot is not available by default in Europe. This script provides a workaround by directly launching the associated UI.
 
 ## Prerequisites
-- Windows 10 or later
+- Windows 10 or later, tested only with Windows 23H2 Insider Preview Build 22635.3140
 
 ## Installation
 1. Download the files from this repository.
