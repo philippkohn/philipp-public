@@ -1,3 +1,2 @@
-# Copilot Shortcut at Windows Taskbar on european systems
-
+# Windows Copilot @ Taskbar on european Windows System
 ![Alt text](Microsoft-Copilot-Logo.png)
