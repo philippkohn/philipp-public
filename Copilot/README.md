@@ -11,10 +11,11 @@ This repository contains a script that enables the use of Windows Copilot on Eur
 ## Installation
 1. Download the Zip file ![Alt text](Windows_Copilot_for_Europe.zip) from this repository.
 2. Unblock the Zip file after the Download, Right click, Properties, Unblock, Apply
-   ![Alt text](UnblockZipFile.jpg)
+   
+[UnblockZipFile.jpg](UnblockZipFile.jpg)
 
-4. Manually create a new folder on your system, e.g., `C:\Users\Public\Copilot`.
-5. Extract all files into the newly created folder
+3. Manually create a new folder on your system, e.g., `C:\Users\Public\Copilot`.
+4. Extract all files into the newly created folder
    
 ## Usage
 To start Windows Copilot, follow these steps:
