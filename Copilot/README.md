@@ -9,13 +9,10 @@ This repository contains a script that enables the use of Windows Copilot on Eur
 - Windows 10 or later, tested only with Windows 23H2 Insider Preview Build 22635.3140
 
 ## Installation
-1. Download the files from this repository.
+1. Download the Zip file [Windows_Copilot_for_Europe.zip](Windows_Copilot_for_Europe.zip) from this repository.
 2. Manually create a new folder on your system, e.g., `C:\Users\Public\Copilot`.
-3. Copy the downloaded files into the newly created folder:
-   - [Start-Copilot.ps1](Start-Copilot.ps1)
-   - [Copilot.lnk](Copilot.lnk)
-   - [Microsoft-Copilot-Logo.ico](Microsoft-Copilot-Logo.ico)
-
+3. Extract all files into the newly created folder
+   
 ## Usage
 To start Windows Copilot, follow these steps:
 1. Navigate to the folder `C:\Users\Public\Copilot`.
