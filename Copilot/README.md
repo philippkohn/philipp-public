@@ -9,7 +9,7 @@ This repository contains a script that enables the use of Windows Copilot on Eur
 - Windows 10 or later, tested only with Windows 23H2 Insider Preview Build 22635.3140
 
 ## Installation
-1. Download the Zip file [Windows_Copilot_for_Europe.zip](Windows_Copilot_for_Europe.zip) from this repository.
+1. Download the Zip file [Alt text](Windows_Copilot_for_Europe.zip) from this repository.
 2. Unblock the Zip file after the Download, Right click, Properties, Unblock, Apply
    
 ![Alt text](UnblockZipFile.jpg)
