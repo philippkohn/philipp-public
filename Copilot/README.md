@@ -13,8 +13,8 @@ This repository contains a script that enables the use of Windows Copilot on Eur
 2. Manually create a new folder on your system, e.g., `C:\Users\Public\Copilot`.
 3. Copy the downloaded files into the newly created folder:
    - [Start-Copilot.ps1](Start-Copilot.ps1)
-   - `Copilot.lnk`
-   - `Microsoft-Copilot-Logo.ico`
+   - [Copilot.lnk](Copilot.lnk)
+   - [Microsoft-Copilot-Logo.ico](Microsoft-Copilot-Logo.ico)
 
 ## Usage
 To start Windows Copilot, follow these steps:
