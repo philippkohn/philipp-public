@@ -23,7 +23,7 @@ Exports user information to 'C:\Script\ADUsersExtensionAttributes.csv'.
 File Name      : Export-ADUserExtensionAttributes.ps1
 Author         : Philipp Kohn, Assisted by OpenAI's ChatGPT
 Prerequisite   : Active Directory PowerShell Module. PowerShell 5.1 or newer.
-Copyright 2024 : SVA System Vertrieb Alexander GmbH
+
 
 Change Log
 ----------
