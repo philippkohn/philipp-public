@@ -8,10 +8,10 @@
 - Prompt Engineering for optimal use of AI Tools like Bing Chat, ChatGPT, and Midjourney
 
 💬 **Ask me about:** 
-I am a Solution Architect for Microsoft 365 with deep dives into topics like Copilot for Microsoft 365.
+Veteran consultant with deep expertise in Microsoft 365 & Microsoft Entra
 
 📫 **How to reach me:**
-- 🐦 [Twitter](https://twitter.com/philipp_kohn)
+- 🦋 [BlueSky](https://bsky.app/profile/thecloudcopilot.com)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/philippkohn/)
 
 ⚡ **Fun fact:** I'm always amazed by the complexities of computers and often wonder how this awesome machine actually works! 😂
